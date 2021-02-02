@@ -21,5 +21,5 @@
 ## Скриншот страницы ##
 ![Не загрузилось(](/123.jpg)
 
-## Ссылка на видео о README.md##
+## Ссылка на видео о README.md ##
 [![Demo CountPages alpha](https://j.gifs.com/QnYGGl.gif)](https://www.youtube.com/embed/26pHLqNmx3Q)
