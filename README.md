@@ -1,4 +1,6 @@
 # for-readme #
+![Badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgreybax%2Fawesome-IT-films%2Fmaster%2Fbadge_endpoint.json)
+
 ## Описание проекта ##
 ### Краткое описание ###
 **Веб-страница с отзывом о первом занятии и предложениях по улучшению.**
